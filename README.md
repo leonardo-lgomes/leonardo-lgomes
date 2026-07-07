@@ -60,8 +60,8 @@ Implemented and maintained a B2B marketplace for agricultural inputs, working ac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leonardo-lgomes&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-lgomes&layout=compact&theme=dark&hide_border=true" />
+  <img height="160" src="[https://github-readme-stats.vercel.app/api?username=leonardo-lgomes&show_icons=true&theme=dark&hide_border=true&count_private=true](https://github-readme-stats-one-vert-78.vercel.app/api?username=leonardo-lgomes&show_icons=true&theme=dark&hide_border=true&count_private=true)" />
+  <img height="160" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-lgomes&layout=compact&theme=dark&hide_border=true](https://github-readme-stats-one-vert-78.vercel.app/api/top-langs/?username=leonardo-lgomes&layout=compact&theme=dark&hide_border=true)" />
 </p>
 
 ---
